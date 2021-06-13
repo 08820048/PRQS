@@ -1,0 +1,131 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+@font-face {
+    font-family: "iconfont"; /* Project id 2525486 */
+    src: url('//at.alicdn.com/t/font_2525486_v43w7pqdjpl.woff2?t=1621574143806') format('woff2'),
+    url('//at.alicdn.com/t/font_2525486_v43w7pqdjpl.woff?t=1621574143806') format('woff'),
+    url('//at.alicdn.com/t/font_2525486_v43w7pqdjpl.ttf?t=1621574143806') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont", serif !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body {
+    background-color: #e9ecec;
+}
+li {
+    list-style: none;
+    float: left;
+}
+a {
+    text-decoration: none;
+    color: #8f9192;
+}
+.box {
+    width: 800px;
+    height: 520px;
+    background-color: #ffffff;
+    border: 1px solid #999999;
+    margin-top: 36px;
+}
+/*头部开始*/
+header {
+    height: 99px;
+    width: 798px;
+    border-bottom: 1px solid #ababb3;
+}
+header a {
+    display: inline-block;
+    width: 798px;
+    height: 99px;
+    line-height: 99px;
+    text-align: center;
+    font-size: 36px;
+    list-style: none;
+    float: left;
+    text-decoration: none;
+    color: #75cdff;
+    background-color: #e9ecec;
+}
+/*头部结束*/
+/*内容开始*/
+.content form{
+    padding: 40px;
+    width: 600px;
+    height: 420px;
+
+}
+.wrong {
+    width: 300px;
+    height: 14px;
+    color: red;
+}
+.wrong::before {
+    font-family: "iconfont", serif !important;
+    content: "\e600";
+}
+.trs {
+    width: 550px;
+    height: 42px;
+    margin-top: 30px;
+}
+label {
+    display: inline-block;
+    width: 100px;
+    height: 42px;
+    line-height: 32px;
+    font-size: 18px;
+    text-align: right;
+}
+input {
+    margin-left: 10px;
+    padding-left: 1em;
+    font-size: 18px;
+    width: 420px;
+    height: 42px;
+    line-height: 42px;
+    border-radius: 5px;
+    border: 1px solid #75cdff;
+}
+.forget_pwd label {
+    margin-left: 120px;
+    float: left;
+    width: 140px;
+    height: 42px;
+    line-height: 42px;
+}
+.forget_pwd input {
+    height: 18px;
+    width: 18px;
+}
+.forget_pwd a {
+    float: right;
+    text-decoration: none;
+    color: #75cdff;
+    font-size: 20px;
+}
+.pwd_ipt{
+    width: 300px;!important;
+}
+button   {
+    width: 249px;
+    height: 42px;
+    background-color: #75cdff;
+    font-size: 24px;
+    margin: 20px 120px;
+    border: none;
+    border-radius: 5px;
+}
+/*内容结束*/

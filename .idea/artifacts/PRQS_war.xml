@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PRQS:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/PRQS_war</output-path>
+    <root id="archive" name="PRQS_war.war">
+      <element id="artifact" artifact-name="PRQS:war exploded" />
+    </root>
+  </artifact>
+</component>
