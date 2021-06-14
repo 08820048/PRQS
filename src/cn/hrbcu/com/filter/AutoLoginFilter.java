@@ -12,7 +12,6 @@ import javax.servlet.http.HttpSession;
 import java.io.IOException;
 
 /**
- * @author: XuYi
  * @date: 2021/5/3 18:32
  * @description: 通过filter实现自动登录功能
  */

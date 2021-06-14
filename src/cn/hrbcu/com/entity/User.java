@@ -1,7 +1,6 @@
 package cn.hrbcu.com.entity;
 
 /**
- * @author: XuYi
  * @date: 2021/5/27 22:41
  * @description: 用户信息实体类
  */

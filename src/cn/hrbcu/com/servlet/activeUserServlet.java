@@ -11,7 +11,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author: XuYi
  * @date: 2021/5/28 22:24
  * @description: 帐号激活
  */

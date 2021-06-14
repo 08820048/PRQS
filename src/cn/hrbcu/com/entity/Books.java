@@ -1,7 +1,6 @@
 package cn.hrbcu.com.entity;
 
 /**
- * @author: XuYi
  * @date: 2021/5/21 22:01
  * @description: 书籍推荐实体类
  */

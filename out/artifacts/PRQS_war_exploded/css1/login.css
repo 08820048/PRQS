@@ -35,7 +35,7 @@ a {
 }
 .box {
     width: 800px;
-    height: 520px;
+    height: 600px;
     background-color: #ffffff;
     border: 1px solid #999999;
     margin-top: 36px;
@@ -61,11 +61,19 @@ header a {
 }
 /*头部结束*/
 /*内容开始*/
-.content form{
+.box .content form {
     padding: 40px;
     width: 600px;
-    height: 420px;
-
+    height: 500px;
+}
+.content .no_login a {
+    display: inline-block;
+    width: 100px;
+    height: 25px;
+    background-color: #00d3ee;
+    margin-left: 0px;
+    color: black;
+    font-size: 18px;
 }
 .wrong {
     width: 300px;
@@ -92,7 +100,6 @@ label {
 input {
     margin-left: 10px;
     padding-left: 1em;
-    margin-top: fill;
     font-size: 18px;
     width: 420px;
     height: 42px;
@@ -118,7 +125,6 @@ input {
     font-size: 20px;
 }
 .pwd_ipt{
-    margin-top: 4000px;!important;
     width: 300px;!important;
 }
 button   {

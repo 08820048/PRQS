@@ -100,7 +100,7 @@
         <ul>
             <c:forEach items="${institutions}" var="institutions" varStatus="index">
             <li>
-                <a href="#">  <img src="./logo/logo-${index.count}.png" alt="">
+                <a href="http://www.bjpowernode.com/">  <img src="./logo/logo-${index.count}.png" alt="">
                     <h5><em>机构名称：</em>${institutions.ins_name}</h5>
                     <h5>
                         <em> 推荐级别：</em>${institutions.ins_recommend}

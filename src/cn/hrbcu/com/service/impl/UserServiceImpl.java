@@ -13,11 +13,7 @@ import cn.hrbcu.com.utils.UuidUtil;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author: XuYi
- * @date: 2021/5/28 8:53
- * @description:
- */
+
 public class UserServiceImpl implements UserService {
    private UserDAO dao = new UserDAOImpl();
     /**
@@ -41,7 +37,9 @@ public class UserServiceImpl implements UserService {
         user.setStatus("N");
         dao.save(user);
         /*发送邮件*/
-        String content ="帐号:"+user.getUsername()+":注册成功，请点击链接进行激活:<a href='http://127.0.0.1:8080/PRQS/ActiveUserServlet?code="+user.getCode()+"'>立即激活</a>";
+//        String content ="帐号:"+user.getUsername()+":注册成功，请点击链接进行激活:< a href='http://127.0.0.1:8081/PRQS/ActiveUserServlet?code="+user.getCode()+"'>立即激活</ a>";
+        String content ="帐号:"+user.getUsername()+":注册成功，请点击链接进 行激活:<a href='http://127.0.0.1:8081/PRQS/ActiveUserServlet?code="+ user.getCode()+"'>立即激活</a>";
+
         MailUtils.sendMail(user.getEmail(),content,"[编程资源网]激活邮件(无需回复)");
         return true;
     }

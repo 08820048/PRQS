@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author: XuYi
  * @date: 2021/5/22 19:42
  * @description: 后台管理的模型层接口
  */

@@ -39,7 +39,7 @@ public class AdminLoginServlet extends HttpServlet {
         }catch (InvocationTargetException e){
             e.printStackTrace();
         }
-        //5.调用Service查询
+        //5.调用Servicec查询
         UserService userService = new UserServiceImpl();
         User loginUser = userService.AdminLogin(user);
         if(loginUser==null){

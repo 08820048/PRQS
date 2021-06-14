@@ -54,7 +54,7 @@
     <div class="content">
         <!--         登录部分开始-->
         <div class="login_content items" style="display: block">
-            <span style="margin-left: 300px"><a href="register_new.jsp">没有账号?</a></span>
+            <span class="no_login"><a href="register_new.jsp">没有账号?</a></span>
             <span>${login_msg}</span>
             <form name="login" action="${pageContext.request.contextPath}/loginUserServlet" method="post">
                 <div class="eam_tel trs">
@@ -70,9 +70,9 @@
                 </div>
 
                 <div class="trs">
-                    <label for="code">验证码</label>
-                    <input name="vcode_l" class="pwd_ipt" id="code" type="text" placeholder="点击可刷新">
-                    <a href="javascript:refreshCode_login();">
+                    <label for="code" style="float: left;">验证码</label>
+                    <input name="vcode_l" class="pwd_ipt" id="code" type="text" placeholder="点击可刷新" style="float: left;margin-left: 10px">
+                    <a href="javascript:refreshCode_login();" style="float: right;display: inline-block;margin-right: 10px;border-right: 5px;background-color: #3e86a0;width: 80px;height: 38px">
                         <img class="verifyImg" id="vcode_l" onclick="javascript:this.src='xxx'+Math.random();" alt="" src="${pageContext.request.contextPath}/CheckCodeServlet">
                     </a>
                     <p class="pwd_p"></p>

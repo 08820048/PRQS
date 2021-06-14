@@ -128,7 +128,7 @@
     <div class="content">
         <!--  注册部分开始-->
         <div class="register_content items" >
-            <span><a href="login.jsp">已有帐号</a></span>
+            <span class="register_account"><a href="login.jsp">已有帐号</a></span>
             <form name="login" action="${pageContext.request.contextPath}/RegisterUserServlet" method="post">
                 <span>${register_msg}</span>
                 <div class="eam_tel trs">
@@ -150,9 +150,9 @@
                     <p class="pwd_p"></p>
                 </div>
                 <div class="trs">
-                    <label for="ident_code">验证码</label>
-                    <input name="check" class="pwd_ipt" id="ident_code" type="text" placeholder="请输入验证码">
-                    <a href="javascript:refreshCode();">
+                    <label for="ident_code" style="float: left;">验证码</label>
+                    <input name="check" class="pwd_ipt" id="ident_code" type="text" placeholder="请输入验证码" style="float: left; margin-right: 10px">
+                    <a href="javascript:refreshCode();" style="float: right;margin-right: 10px;">
                         <img class="verifyImg" id="vcode" onclick="javascript:this.src='xxx'+Math.random();" alt="" src="${pageContext.request.contextPath}/CheckCodeServlet">
                     </a>
 
