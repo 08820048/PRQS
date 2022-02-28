@@ -33,6 +33,6 @@
   <a href="#投稿"><img src="https://img.shields.io/badge/框架-MVC模式-orange.svg" alt="投稿"></a>
   <a href="#投稿"><img src="https://img.shields.io/badge/Servlet-JSP-yellow.svg" alt="投稿"></a>
   <a href="#投稿"><img src="https://img.shields.io/badge/数据库-MySql-red.svg" alt="投稿"></a>
-  <a href="#投稿"><img src="https://img.shields.io/badge/前端er-邹芳芳-blue.svg" alt="投稿"></a>
+  <a href="#投稿"><img src="https://github.com/saykanz/前端er-saykanz-blue.svg" alt="投稿"></a>
    <a href="#投稿"><img src="https://img.shields.io/badge/boostrap-v4.0-blue.svg" alt="投稿"></a>
 </p>
