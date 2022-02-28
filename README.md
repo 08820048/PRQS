@@ -28,7 +28,7 @@
 - .......
 
 <p align="center">
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-白码手记-lightgrey.svg" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-代码不良人-lightgrey.svg" alt="公众号"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/语言-Java-important.svg" alt="公众号"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/前端-HTML&CSS&javascript-important.svg" alt="公众号"></a>
   <a href="#投稿"><img src="https://img.shields.io/badge/support-暂停优化-green.svg" alt="投稿"></a>
