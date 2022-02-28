@@ -1,6 +1,8 @@
 ## PRQS(编程资源网)
 ###  技术选型：
-基于***MVC***模式的***JSP***技术开发的简易项目。部署详情见[操作手册](https://github.com/xiaoyivip/PRQS/blob/master/%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C)。
+- 基于***MVC***模式的***JSP***技术开发的简易项目。部署详情见[操作手册](https://github.com/xiaoyivip/PRQS/blob/master/%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C)。
+- 前端开发:[saykanz](https://github.com/saykanz)
+
 
 ### 部分已实现功能：
 - 培训机构数据前台展示
@@ -33,6 +35,5 @@
   <a href="#投稿"><img src="https://img.shields.io/badge/框架-MVC模式-orange.svg" alt="投稿"></a>
   <a href="#投稿"><img src="https://img.shields.io/badge/Servlet-JSP-yellow.svg" alt="投稿"></a>
   <a href="#投稿"><img src="https://img.shields.io/badge/数据库-MySql-red.svg" alt="投稿"></a>
-  <a href="#投稿"><img src="https://github.com/saykanz/前端er-saykanz-blue.svg" alt="投稿"></a>
    <a href="#投稿"><img src="https://img.shields.io/badge/boostrap-v4.0-blue.svg" alt="投稿"></a>
 </p>
