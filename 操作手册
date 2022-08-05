@@ -1,2 +1,21 @@
-如何在本地部署本项目并跑起来。
-有时间再更新....
+
+## 项目部署
+****
+### 本地
+> 数据库文件找我或者[saykanz](https://github.com/saykanz)获取
+> 教程以IDEA为例。
+- 拉取项目
+- 打开IDEA，点击配置Tomcat服务
+![](https://images.waer.ltd/img/20220805225801.png)
+- 对于图中的第2步骤，如果是第一次食用，请按照下图配置tomcat路径
+![](https://images.waer.ltd/img/20220805225845.png)
+- 添加war包
+![](https://images.waer.ltd/img/20220805230300.png)
+- 运行
+![](https://images.waer.ltd/img/20220805230340.png)
+
+****
+
+### 线上
+待更新....
+
