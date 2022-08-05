@@ -32,6 +32,7 @@
 
 ****
 ### 调试运行
+> 数据库文件找我或者[saykanz](https://github.com/saykanz)获取
 > 教程以IDEA为例。
 - 拉取项目
 - 打开IDEA，点击配置Tomcat服务
