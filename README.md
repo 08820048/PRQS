@@ -27,6 +27,22 @@
 - 权限管理(fliter拦截器技术)
 - .......
 
+****
+### 调试运行
+> 教程以IDEA为例。
+- 拉取项目
+- 打开IDEA，点击配置Tomcat服务
+![](https://images.waer.ltd/img/20220805225801.png)
+- 对于图中的第2步骤，如果是第一次食用，请按照下图配置tomcat路径
+![](https://images.waer.ltd/img/20220805225845.png)
+- 添加war包
+![](https://images.waer.ltd/img/20220805230300.png)
+- 运行
+![](https://images.waer.ltd/img/20220805230340.png)
+
+
+
+
 <p align="center">
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-代码不良人-lightgrey.svg" alt="公众号"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/语言-Java-important.svg" alt="公众号"></a>
