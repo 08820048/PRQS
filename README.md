@@ -2,7 +2,7 @@
 ###  技术选型：
 - 基于***MVC***模式的***JSP***技术开发的简易项目。部署详情见[操作手册](https://github.com/xiaoyivip/PRQS/blob/master/%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C)。
 - 前端开发:[saykanz](https://github.com/saykanz)
-
+> 项目整体相对简单,作为学习是个选择。因为我相信现在还有在开设JSP课程的学校不在少数，尽管他已经是**上古秘术**。
 
 ****
 
