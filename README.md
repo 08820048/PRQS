@@ -4,6 +4,9 @@
 - 前端开发:[saykanz](https://github.com/saykanz)
 
 
+****
+
+
 ### 部分已实现功能：
 - 培训机构数据前台展示
 - 书籍推荐前台展示
@@ -40,16 +43,8 @@
 - 运行
 ![](https://images.waer.ltd/img/20220805230340.png)
 
+****
+### 项目状态
+已结束
 
 
-
-<p align="center">
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-代码不良人-lightgrey.svg" alt="公众号"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/语言-Java-important.svg" alt="公众号"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/前端-HTML&CSS&javascript-important.svg" alt="公众号"></a>
-  <a href="#投稿"><img src="https://img.shields.io/badge/support-暂停优化-green.svg" alt="投稿"></a>
-  <a href="#投稿"><img src="https://img.shields.io/badge/框架-MVC模式-orange.svg" alt="投稿"></a>
-  <a href="#投稿"><img src="https://img.shields.io/badge/Servlet-JSP-yellow.svg" alt="投稿"></a>
-  <a href="#投稿"><img src="https://img.shields.io/badge/数据库-MySql-red.svg" alt="投稿"></a>
-   <a href="#投稿"><img src="https://img.shields.io/badge/boostrap-v4.0-blue.svg" alt="投稿"></a>
-</p>
